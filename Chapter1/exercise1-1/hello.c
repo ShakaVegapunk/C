@@ -5,7 +5,7 @@ int main()
     printf("Hello, ");
     printf("world");
     printf("\n");
-
+    // I know it can be done in one line, This is just for the sake of expirimentation
     return 0;
 }
 
