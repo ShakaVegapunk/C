@@ -45,3 +45,14 @@ void write_word() {
     }
   }
 }
+
+
+/*
+Output:
+
+ Enter words, then EOF (Ctrl+D or Ctrl+Z) to finish:
+ThisIsHowThisWorks
+
+Histogram of Word Lengths:
+******************
+ */
